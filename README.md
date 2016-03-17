@@ -4,7 +4,7 @@ Ajaxable behavior for autodetection and handling AJAX requests
 
 Under hardcoding.
 
-2do
+2do list
  -
 
 Installation
