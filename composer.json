@@ -1,0 +1,21 @@
+{
+    "name": "comradepashka/ajaxable",
+    "description": "Ajaxable behavior for autodetection and handling AJAX requests",
+    "type": "yii2-ajaxable",
+    "keywords": ["yii2","extension","ajaxable"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Pavel Sokolov",
+            "email": "comradepashka@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "comradepashka\\ajaxable\\": ""
+        }
+    }
+}
