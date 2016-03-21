@@ -32,6 +32,9 @@ class AjaxableBehaviour extends Behavior
             $this->owner->renderAjax($view, $params) :
             $this->owner->render($view, $params);
     }
+    public function init(){
+        yii::trace("init behavior");
+    }
     public function registerToolsAsset($event)
     {
         $view = $event->sender;
