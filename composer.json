@@ -1,6 +1,5 @@
 {
     "name": "comradepashka/yii2-ajaxable",
-    "version": "0.0.1",
     "description": "Ajaxable behavior for autodetection and handling AJAX requests",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","ajaxable"],
