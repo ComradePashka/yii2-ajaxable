@@ -13,12 +13,12 @@ use yii\base\Behavior;
 use yii\web\View;
 
 /**
- * Class AjaxableBehaviour
+ * Class AjaxableBehavior
  * @package comradepashka\ajaxable
  *
  */
 
-class AjaxableBehaviour extends Behavior
+class AjaxableBehavior extends Behavior
 {
     public function events()
     {
